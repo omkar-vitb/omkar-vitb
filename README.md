@@ -5,6 +5,7 @@
 - 🎯 **Goal:** To make somthing that can change the world.
 - 💻 **Setup:** Powered by an HP Omen laptop.
 - 📈 **Interests:** Machine Learning and competitive programming .
+- **Graduation:** 2025-2029.
 
 ### 🛠️ Tech Stack & Skills
 
@@ -22,5 +23,15 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=Seaborn&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+---
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](URL_HERE) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](URL_HERE) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23445?style=for-the-badge&logo=Codeforces&logoColor=white)](URL_HERE) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](URL_HERE) 
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](URL_HERE)
 
 ---
