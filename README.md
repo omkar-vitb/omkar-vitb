@@ -1,4 +1,4 @@
-# Hi, I'm [omkar kumar]! 👋
+# Hi, I'm omkar kumar! 👋
 
 ### 🚀 About Me
 - 🎓 **B.Tech CSE Student** at VIT Bhopal.
